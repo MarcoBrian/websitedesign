@@ -1,0 +1,166 @@
+
+
+
+
+
+.header {
+    width:100%;
+    display:inline-block;
+    padding:20px;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+li a {
+    color: white;
+}
+.header li a:hover {
+    padding:0px;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    color: #CBB682;
+}
+
+.navi {
+    background-color: black;
+}
+
+.header-brand {
+    font-size:20px;
+    color: #CBB682;
+    
+    
+}
+
+.slideshow {
+    height:500px;   
+}
+
+
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-size:75px;
+    font-weight:100;
+    position:relative;
+    bottom:100px;
+    
+}
+
+nav {
+    
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    color: #CBB682;
+}
+.item {
+    height:500px;
+}
+
+#slide1 {
+    background: url("image1.jpg") center no-repeat;
+   background-size: 100% 100%;
+}
+#slide2 {
+    background: url("image2.png") center no-repeat;
+    background-size: 100% 100%;
+}
+#slide3 {
+    background: url("image3.jpg") center no-repeat;
+    background-size: 100% 100%;
+   
+} 
+
+
+#image4 {
+   padding-top: 0%;
+}
+
+.content {
+    padding: 0px 40px;
+   
+    
+    
+}
+
+
+.aboutrow {
+    margin:50px 10px;
+}
+
+footer {
+    background-color:black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+
+
+.nave {
+    display:block;
+    z-index:1;
+    background-color: black;
+}
+
+
+
+span {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    
+}
+
+.footerimg {
+    padding: 10px 3px;
+    height:50px;
+}
+
+h1 {
+    display:inline-block;
+    padding:10px 150px;
+    font-family: 'Montserrat', sans-serif;
+    color: #CBB682;
+    font-size:75px;
+    
+}
+
+.boxed{
+    border: solid;
+    display:inline-block;
+}
+
+.center {
+    text-align: center;
+    margin:50px;
+}
+
+.about {
+    border-bottom:solid ;
+    border-color: gainsboro ;
+}
+
+
+
+
+
+.subhead {
+    font-size:50px;
+    border-bottom: solid;
+    border-color: gainsboro;
+}
+
+
+
+.padded {
+    padding-top:30px;
+}
